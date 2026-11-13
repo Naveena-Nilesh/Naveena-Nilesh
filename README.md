@@ -1,16 +1,55 @@
-## Hi there 👋
+Hi, I'm Naveena! 👋
 
-<!--
-**Naveena-Nilesh/Naveena-Nilesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Undergraduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in exploring technology, building practical projects, and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on strengthening my fundamentals and learning through hands-on development.
+
+💻 Technologies & Tools
+
+Languages: Python
+
+Currently Learning: Data Structures & Algorithms
+
+Tools: Git, GitHub, VS Code
+
+Exploring: Artificial Intelligence and Financial Technology
+
+🎯 Areas of Interest
+
+Software Development
+
+Artificial Intelligence
+
+FinTech
+
+Problem Solving
+
+🚀 What I'm Working On
+
+Strengthening my programming fundamentals.
+
+Building projects using Python.
+
+Practising Data Structures and Algorithms.
+
+Exploring the intersection of technology and finance.
+
+📌 My Approach
+
+I believe in learning by building, documenting my progress, and continuously improving through practical experience.
+
+🤝 Let's Connect
+
+GitHub: [@Naveena-Nilesh] (https://github.com/Naveena-Nilesh)
+
+LinkedIn: [Connect with me](https://www.linkedin.com/in/naveena-nilesh-3bb596412/)
+
+Always learning. Always building.
+
+
+
+
+
+
